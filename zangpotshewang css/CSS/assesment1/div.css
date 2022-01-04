@@ -1,0 +1,31 @@
+
+body{
+        background-color:bisque
+        font-family: monospace
+
+
+}
+
+
+nav{
+    text-align: center;
+    margin-top:20px;
+}
+
+
+
+a{
+    text-align: center;
+    text-decoration: none;
+    color: chartreuse;
+}
+h1{text-align: center;
+color: blue;
+text-decoration: underline;
+}
+p{
+    text-color:black;
+    text-weight: bold;
+    
+}
+

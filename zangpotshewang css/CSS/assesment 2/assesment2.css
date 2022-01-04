@@ -1,0 +1,15 @@
+
+nav{
+    text-align: center;
+    background-color:aliceblue;
+    
+    height: 60px;
+    padding-top: 15px
+}
+a{
+    text-decoration: none;
+    text-transform:uppercase;
+    font-weight:bold;
+    font-size: x-large;
+
+}

@@ -1,0 +1,14 @@
+body{
+    background-image: linear-gradient(45deg,rgba(255,255,255),grey)
+    
+}
+h1{
+    color: darkblue;
+    font-weight: bolder;
+}
+.paragraph{
+    font-family: cursive;
+    color: crimson;
+    border: 2px dashed black;
+
+}
